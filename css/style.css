@@ -20,7 +20,7 @@ header{
     width: 15%;
     padding: 40px;
     padding-left: 0px;
-    img
+    
     
 }
 
@@ -29,8 +29,15 @@ header{
     margin-bottom:1px;
 }
 
+figure{
+    margin: 0;
+    margin-top: 20px;
+}
+
 #subtitle{
     font-size: 25px;
+    margin: 0;
+    
     
 }
 
@@ -88,4 +95,30 @@ td{
 
 table{
     border-spacing: 0;
+    }
+
+    #foryou{
+        color: rgb(116, 113, 113);
+    }
+
+    #special1{
+        width: 300px;
+        height: 180px;
+        background-image: url(..//img/monitor.jpg);
+        color: white;
+        font-size:x-large;
+        padding: 15px;
+        margin:3px;
+
+    }
+
+    #special2{
+        width: 300px;
+        height: 180px;
+        background-image: url(..//img/graph.jpg);
+        color: white;
+        font-size:x-large;
+        padding: 15px;
+        margin:3px;
+
     }
