@@ -23,3 +23,34 @@ header{
     img
     
 }
+
+#title{
+    font-size: 42px;
+    margin-bottom:1px;
+}
+
+#subtitle{
+    font-size: 25px;
+    
+}
+
+a{
+    text-decoration: none;
+    color:blue;
+}
+
+#caption{
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#caption2{
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
